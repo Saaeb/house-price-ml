@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual environments
+.venv/
+env/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Models
+models/
+
+# OS / Editor / Logs
+.DS_Store
+Thumbs.db
+*.log
+

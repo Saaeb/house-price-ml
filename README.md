@@ -1,1 +1,1 @@
-# House Price ML Project
+#Predicting housse prices with python & scikit-learn
